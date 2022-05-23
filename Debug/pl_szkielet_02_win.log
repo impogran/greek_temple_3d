@@ -1,0 +1,29 @@
+﻿  main_file.cpp
+C:\Users\Gerard Bosacki\Desktop\projekt\shader.h(56,40): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Gerard Bosacki\Desktop\projekt\OBJ_Loader.h(652,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\OBJ_Loader.h(689,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\OBJ_Loader.h(695,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\OBJ_Loader.h(949,18): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(137,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(138,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(142,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(143,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(145,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(146,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(204,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(210,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(232,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(236,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(240,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(253,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(258,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(280,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(284,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(288,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(301,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(307,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(329,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(333,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(337,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Gerard Bosacki\Desktop\projekt\main_file.cpp(491,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  pl_szkielet_02_win.vcxproj -> C:\Users\Gerard Bosacki\Desktop\projekt\Debug\pl_szkielet_02_win.exe

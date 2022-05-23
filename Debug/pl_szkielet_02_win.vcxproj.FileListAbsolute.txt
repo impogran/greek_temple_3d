@@ -1,0 +1,12 @@
+C:\Users\jedrz\Desktop\pl_szkielet_02_win\Debug\pl_szkielet_02_win.exe
+C:\Users\jedrz\Desktop\pl_szkielet_02_win\Debug\pl_szkielet_02_win.pdb
+C:\Users\Gerard Bosacki\Downloads\pl_szkielet_02_win\Debug\pl_szkielet_02_win.exe
+C:\Users\Gerard Bosacki\Downloads\pl_szkielet_02_win\Debug\pl_szkielet_02_win.pdb
+C:\Users\Gerard Bosacki\Downloads\projekt kacpi\Debug\pl_szkielet_02_win.exe
+C:\Users\Gerard Bosacki\Downloads\projekt kacpi\Debug\pl_szkielet_02_win.pdb
+C:\Users\Gerard Bosacki\Desktop\$RLXGVBC\Debug\pl_szkielet_02_win.exe
+C:\Users\Gerard Bosacki\Desktop\$RLXGVBC\Debug\pl_szkielet_02_win.pdb
+C:\Users\Gerard Bosacki\Desktop\testing\Debug\pl_szkielet_02_win.exe
+C:\Users\Gerard Bosacki\Desktop\testing\Debug\pl_szkielet_02_win.pdb
+C:\Users\Gerard Bosacki\Desktop\projekt\Debug\pl_szkielet_02_win.exe
+C:\Users\Gerard Bosacki\Desktop\projekt\Debug\pl_szkielet_02_win.pdb
